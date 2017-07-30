@@ -1,0 +1,78 @@
+/*green*/
+.color1 {
+	 background: #4aaaa5;
+}
+/*gray*/
+.color2 {
+	background: #666666;
+}
+/*light gray*/
+* {
+  box-sizing: border-box;
+}
+
+* {
+	margin:0;
+	padding:0;
+}
+
+.color3 {
+	background: #cccccc;
+}
+
+/*white*/
+.color4 {
+	background: #fff;
+}
+
+.navbar {
+	height: 100px;
+}
+
+.navbar-header {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	position: absolute;
+	bottom: 0%;
+	padding: 2px 25px;
+}
+
+.navbar-nav li a {
+ 	line-height: 60px;
+}
+
+body {
+	background-image: url("assets/images/background images/ep_naturalwhite.png");
+}
+
+
+
+
+
+
+
+aside {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 2px solid darkgray;
+	border-radius: 8px;
+}
+
+h3 {
+	color: #4aaaa5;
+	text-align: center;
+	border-bottom: 3px solid gray;
+}
+
+footer {
+	background: #4aaaa5;
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+    border-top: 7px solid #666666;
+}
+
+
