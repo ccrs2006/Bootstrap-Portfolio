@@ -45,11 +45,39 @@ body {
 	background-image: url("assets/images/background images/ep_naturalwhite.png");
 }
 
+article {
+	padding: 20px 40px 20px 40px;
+	border: 2px solid darkgray;
+	border-radius: 8px;
+}
 
+h2 {
+	color: #4aaaa5;
+	padding-left: 70px;
+	padding-bottom: 20px;
+	border-bottom: 3px solid gray;
+}
 
+.li img {
+	border-radius: 20px;
+	border: 1px solid #222222;
+	box-shadow: 12px 12px 8px #666666;
+}
 
+label {
+	background-color: #4aaaa5;
+	display: block;
+	font-size: 35px;
+	text-align: center;
+	padding: 10px;
+	position: relative;
+	bottom: 125px;
+}
 
-
+label a {
+	text-decoration: none;
+	color: #ffffff;
+}
 
 aside {
 	margin-top: 20px;

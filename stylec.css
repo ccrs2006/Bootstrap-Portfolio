@@ -45,10 +45,15 @@ body {
 	background-image: url("assets/images/background images/ep_naturalwhite.png");
 }
 
+article {
+	padding: 20px 40px 20px 40px;
+	border: 2px solid darkgray;
+	border-radius: 8px;
+}
 
-
-
-
+.form-horizontal {
+	padding: 40px 60px;
+}
 
 
 
