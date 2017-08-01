@@ -47,6 +47,7 @@ body {
 }
 
 article {
+	margin-bottom: 120px;
 	padding: 20px;
 	border: 2px solid darkgray;
 	border-radius: 8px;
@@ -93,5 +94,3 @@ footer {
     padding: 25px;
     border-top: 7px solid #666666;
 }
-
-

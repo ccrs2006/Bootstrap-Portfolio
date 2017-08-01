@@ -46,6 +46,7 @@ body {
 }
 
 article {
+	height: 700px;
 	padding: 20px 40px 20px 40px;
 	border: 2px solid darkgray;
 	border-radius: 8px;
@@ -54,8 +55,6 @@ article {
 .form-horizontal {
 	padding: 40px 60px;
 }
-
-
 
 aside {
 	margin-top: 20px;
@@ -80,5 +79,3 @@ footer {
     padding: 25px;
     border-top: 7px solid #666666;
 }
-
-
